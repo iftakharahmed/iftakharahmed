@@ -3,11 +3,11 @@
 
 <br>
 
-- 🌱 I’m currently learning **Native platform Android Application Development and Web Design**
+-  I’m currently learning **Native platform Android Application Development and Web Design**
 
-- 💬 Ask me about **Android App Design and Web Design**
+-  Ask me about **Android App Design and Web Design**
 
-- 📫 Mail me to connect **iftakharahmedtasrif@gmail.com**
+-  Mail me to connect **iftakharahmedtasrif@gmail.com**
 
 <br>
 
@@ -29,10 +29,3 @@
 <a href="https://twitter.com/iftakhar__ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iftakhar__ahmed" height="30" width="40" /></a>
 <a href="https://codepen.io/iftakharahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="iftakharahmed" height="30" width="40" /></a>
 </p>
-
-<br> 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftakharahmed" alt="iftakharahmed" /></a> </p>
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftakharahmed&label=Profile%20views&color=0e75b6&style=flat" alt="iftakharahmed" /> </p>
